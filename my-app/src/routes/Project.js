@@ -85,7 +85,7 @@ const Project = () => {
                   View
                 </NavLink>
                 <NavLink
-                  to="https://github.com/VishalMaddheshiya2304/Realtime_Code_Editor"
+                  to="https://real-time-code-editor-sooty.vercel.app/"
                   className="btn"
                 >
                   Source

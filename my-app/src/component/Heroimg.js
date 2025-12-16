@@ -12,10 +12,11 @@ const Heroimg = () => {
       <div className="content">
         <p>
           Hello! MY self <b> Vishal Maddheshiya</b>, <br />
-          I'M A COMPUTER SCIENCE AND ENGINEERING STUDENT.
+         
+I am a Software Engineer with strong foundations in software development, system design, and core computer science concepts.
         </p>
         <h1>
-          React Developer.
+          Software Engineer.
         </h1>
         <div>
           <Link to="/project" className="btn">Projects</Link>

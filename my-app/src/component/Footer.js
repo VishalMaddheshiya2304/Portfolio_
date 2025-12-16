@@ -17,8 +17,8 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "white", marginRight: "2rem" }} />
             <div>
-              <p>217, Prem gali, Sanjay colony, Arthala</p>
-              <p>Ghaziabad</p>
+              <p>Lucknow</p>
+              <p>Uttar Pradesh,India</p>
             </div>
           </div>
 
@@ -40,8 +40,7 @@ const Footer = () => {
         <div className="right">
           <h4>About me</h4>
           <p>
-            "I am a dedicated computer science student with a passion for React
-            development, eager to showcase my skills through my portfolio."
+           "I am a Software Engineer with strong foundations in software development, system design, and core computer science concepts."
           </p>
           <div className="social">
   <a href="https://www.facebook.com/vishal.maddhesiya.581/" target="_blank" rel="noopener noreferrer">
